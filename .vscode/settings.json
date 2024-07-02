@@ -1,0 +1,6 @@
+{
+    "python.testing.pytestArgs": [
+        "-o pythonpath=/Users/user.name/repos/vsc-bug/top-dir"
+    ],
+    "python.testing.pytestEnabled": true,
+}
